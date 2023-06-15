@@ -1,4 +1,4 @@
-This program helps you to grind mastery on blox fruits.
+This program helps you to grind mastery on blox fruits. STILL IN BETA!
 To use this install python. After installing use the following commands in the command prompt 
 
 First Command
